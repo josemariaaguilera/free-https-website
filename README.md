@@ -1,0 +1,1 @@
+in this repository you can find how to upload a https web page whit our domain totally free using 000webhost freenom and cloudflare. you can also find the 000webhost.js that remove the added bottom banner of 000webhost.
